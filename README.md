@@ -1,4 +1,4 @@
-# SpotifyTranslate
+# MusixMatch Lyrics for Spotify (Spotify Translate)
 A Chrome extension which automatically loads translated lyrics from Musixmatch in a new tab for songs played via Spotify Web Player
 
 **Configuration:**  

@@ -1,8 +1,9 @@
 {
-    "name": "Spotify Translate",
-    "description": "Automatically load translated lyrics for Spotify Web Player",
+    "name": "Musixmatch Lyrics for Spotify (Unofficial)",
+    "short_name": "Spotify Translate",
+    "description": "Automatically load Musixmatch lyrics for Spotify Web Player",
     "author": "Eric Aguilera",
-    "version": "1.0",
+    "version": "1.1",
     "manifest_version": 2,
     "permissions": [
         "https://open.spotify.com/*",
