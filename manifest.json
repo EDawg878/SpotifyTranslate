@@ -1,5 +1,6 @@
 {
     "name": "Spotify Translate",
+    "description": "Automatically load translated lyrics for Spotify Web Player",
     "author": "Eric Aguilera",
     "version": "1.0",
     "manifest_version": 2,
